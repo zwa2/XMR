@@ -2,7 +2,7 @@
 
 Implementation of XMR as described in the paper "XMR: An Explainable Multimodal Neural Network for Drug Response Prediction"
 
-![Alt-Text](/images/XMR.png)
+![Alt-Text](/images/XMR.png){width=50% height=50%}
 
 ## Requirements
 Networks have been implemented in Python 3.8 with the following packages:
