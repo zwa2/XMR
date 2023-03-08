@@ -1,0 +1,3 @@
+[submodule "molecularGNN_smiles"]
+	path = molecularGNN_smiles
+	url = https://github.com/masashitsubaki/molecularGNN_smiles.git
